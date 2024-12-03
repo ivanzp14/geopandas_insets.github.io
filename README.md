@@ -2,4 +2,4 @@
 # Project title
 ## Adv. GIS course final project site
 - Work description
--  [adv. GIS repository]: (https://github.com/ivanzp14/python_GIS)
+- [adv. GIS repository]: (https://github.com/ivanzp14/python_GIS)
