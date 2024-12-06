@@ -1,14 +1,11 @@
 title: Ivan Zamora-Plaza
-logo: /images/me.png # Ensure the path is correct and points to your logo
 description: Engineer | PhD student
 theme: jekyll-theme-minimal
 
-# Social Links (optional)
 social:
   github: https://github.com/ivanzp14
   linkedin: linkedin.com/in/ivan-zamora-plaza-94a7b1212
-
-# Include any static files or directories
+  
 include:
   - "_config.yml"
   - "images/"
