@@ -1,15 +1,3 @@
 title: Ivan Zamora-Plaza
 description: Engineer | PhD student
 theme: jekyll-theme-minimal
-
-social:
-  github: https://github.com/ivanzp14
-  linkedin: linkedin.com/in/ivan-zamora-plaza-94a7b1212
-  
-include:
-  - "_config.yml"
-  - "images/"
-
-# Plugins (optional)
-plugins:
-  - jekyll-feed
