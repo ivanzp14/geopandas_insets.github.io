@@ -1,4 +1,4 @@
-![Ivan Zamora-Plaza](images/me.jpg)
+![Ivan Zamora-Plaza](images/Tierra_Media.jpg)
 
 # **Adv. GIS Project**
 ## **Creating Geospatial Maps with Insets Using Geopandas**
