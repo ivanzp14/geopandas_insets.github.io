@@ -1,3 +1,5 @@
+![Ivan Zamora-Plaza](images/me.jpg)
+
 # **Adv. GIS Project**
 ## **Creating Geospatial Maps with Insets Using Geopandas**
 This repository demonstrates using Python's Geopandas and Matplotlib libraries to create geospatial maps with insets. The script allows users to select shapefiles, filter geospatial data based on attributes, and generate maps with inset views to zoom in on specific areas.
