@@ -1,4 +1,4 @@
-![Tierra_Media](images/Tierra_Media.jpg)
+![Tierra_Media](images/Tierra_Media.png)
 
 # **Adv. GIS Project**
 ## **Creating Geospatial Maps with Insets Using Geopandas**
