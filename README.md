@@ -1,4 +1,4 @@
-![Tierra_Media](images/Tierra_Media.png)
+<img src="images/Tierra_Media.png" alt="Tierra Media" width="300">
 
 # **Adv. GIS Project**
 ## **Creating Geospatial Maps with Insets Using Geopandas**
